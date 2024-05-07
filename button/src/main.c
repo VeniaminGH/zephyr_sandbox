@@ -1,6 +1,7 @@
 /*
  * Copyright (c) 2016 Open-RnD Sp. z o.o.
  * Copyright (c) 2020 Nordic Semiconductor ASA
+ * Copyright (c) 2024 Veniamin Milevski
  *
  * SPDX-License-Identifier: Apache-2.0
  */
