@@ -187,6 +187,7 @@ int main(void)
 	}
 
 	printk("Press the button\n");
+
 	while (1) {
 		if (led.port) {
 			/* If we have an LED, match its state to the button's. */
